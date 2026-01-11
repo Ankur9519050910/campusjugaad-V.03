@@ -39,7 +39,7 @@ Currently, students rely on spammy WhatsApp groups or favors from friends in the
 ---
 **Demo Video**:
 * Round 1: https://www.youtube.com/watch?v=1uiUTcwBCmg
-* Round 2:
+* Round 2: To be updated
 ## Feasibility & Impact
 
 | Metric / Area | Stat / Status | Details |
@@ -103,4 +103,5 @@ Users can now cancel a quest if they find a friend to do it instead.
 
 ---
 *For detailed architecture and diagrams, see [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md)*
+
 
