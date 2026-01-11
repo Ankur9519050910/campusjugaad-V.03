@@ -80,8 +80,8 @@ A full **Dispute Resolution Center** is now active. Users can raise disputes, lo
 * **Privacy-First Email Bridge**: We integrated **Nodemailer** to act as a bridge. When a dispute is raised, the system emails both parties.
 * **Crucial Detail**: The system uses `Reply-To: admin@campusjugaad` and `BCC`. This means the Hero and Task Master can email their evidence *without revealing their personal email addresses to each other*.
 
-Admin Email for Testing: admin@cj.com
-Password: admin123
+**Admin Email for Testing**: admin@cj.com  
+**Password**: admin123
 
 **Resolution Logic (The Jury):**
 Admins have a special dashboard to trigger one of three outcomes:
