@@ -93,8 +93,8 @@ Users can now cancel a quest if they find a friend to do it instead.
 * **Conditional Deletion**: The API endpoint `DELETE /api/quests/:id` performs a strict check:
   ```typescript
   findOneAndDelete({ _id: id, status: 'open' })
-
-  ## Limitations & Constraints
+  ```
+## Limitations & Constraints
 
 ### 1. Financial Compliance (Regulatory)
 * **No Real Banking API**: Currently, the "Wallet" uses a closed-loop virtual currency system. We have not integrated a real Payment Gateway (like Razorpay/Stripe) due to **KYC (Know Your Customer)** and legal requirements for handling real money between peers.
@@ -103,4 +103,5 @@ Users can now cancel a quest if they find a friend to do it instead.
 
 ---
 *For detailed architecture and diagrams, see [TECHNICAL_ARCHITECTURE.md](./TECHNICAL_ARCHITECTURE.md)*
+
 
