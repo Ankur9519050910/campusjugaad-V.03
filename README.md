@@ -39,7 +39,8 @@ Currently, students rely on spammy WhatsApp groups or favors from friends in the
 ---
 **Demo Video**:
 * Round 1: https://www.youtube.com/watch?v=1uiUTcwBCmg
-* Round 2: To be updated
+* Round 2:
+https://www.youtube.com/watch?v=hWEl94z8alw
 ## Feasibility & Impact
 
 | Metric / Area | Stat / Status | Details |
